@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+hadoop/
+data/raw_logs/
+data/checkpoints/
+data/vector_db/
+.DS_Store
+Thumbs.db
